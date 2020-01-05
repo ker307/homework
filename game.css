@@ -1,0 +1,14 @@
+#mynumb{
+    background-color: cornsilk;
+}
+
+#out {
+    background-color: red;
+}
+
+body {  
+    text-align: center;
+    margin-top: 16px;
+    padding: 10%;
+    font-size: 100%;
+}
